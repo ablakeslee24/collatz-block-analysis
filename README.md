@@ -130,12 +130,14 @@ Compile with a C++ compiler such as g++.
 For the block-crossing program:
 
 g++ -std=c++17 block_crossing.cpp -o block_crossing
+
 ./block_crossing
 
 
 For the trajectory-analysis program:
 
 g++ -std=c++17 trajectory_analysis.cpp -o trajectory_analysis
+
 ./trajectory_analysis
 
 
